@@ -26,12 +26,17 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<strong>It is easy to check whether you have opened the
+        correct workspace. Eclipse window should look like <a
+        class="thumbnail" href="outcomes_menu.png">this<span><img
+            src="images/Screenshot028a.png" /></span></a>. Specifically, if you do
+        not see ProjectTemplate in the Package Explorer tab on the left
+        of the window (or you see additional projects), <span
+        class="underline">you did not open the correct workspace</span>.
+        If the workspace does not look right, you can switch to the
+        correct one by selecting, in Eclipse's menu, File &gt; Switch
+        Workspace &gt; Other... and then navigating to the correct
+        workspace folder on your disk.
+</strong>
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OSUKEENTutorials/OSUKEENTutorials.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
