@@ -29,7 +29,7 @@ Syntax highlighted code block
 <strong>It is easy to check whether you have opened the
         correct workspace. Eclipse window should look like <a
         class="thumbnail" href="outcomes_menu.png">this<span><img
-            src="images/Screenshot028a.png" /></span></a>. Specifically, if you do
+            src="outcomes_menu.png" /></span></a>. Specifically, if you do
         not see ProjectTemplate in the Package Explorer tab on the left
         of the window (or you see additional projects), <span
         class="underline">you did not open the correct workspace</span>.
