@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-<strong>It is easy to check whether you have opened the
+It is easy to check whether you have opened the
         correct workspace. Eclipse window should look like <a
         class="thumbnail" href="outcomes_menu.png">this<span><img
             src="outcomes_menu.png" /></span></a>. Specifically, if you do
@@ -37,6 +37,6 @@ Syntax highlighted code block
         correct one by selecting, in Eclipse's menu, File &gt; Switch
         Workspace &gt; Other... and then navigating to the correct
         workspace folder on your disk.
-</strong>
+
 
 
